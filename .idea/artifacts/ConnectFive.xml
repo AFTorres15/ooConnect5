@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="ConnectFive">
+    <output-path>$PROJECT_DIR$/out/artifacts/ConnectFive</output-path>
+    <root id="root">
+      <element id="module-output" name="ConnectFive" />
+    </root>
+  </artifact>
+</component>
